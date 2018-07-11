@@ -1,0 +1,10 @@
+*{
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+}
+
+#doll {position: absolute; height: 375px; width: 301px; background-image: url('images/paper_doll.png')}
+#dress_container {position: absolute; height: 100%; width: 50%; left: 50%}
+
+.dress {position: relative; display: inline-block}
