@@ -1,6 +1,6 @@
 game = {
 	
-	dresses = [],
+	dresses: [],
 	
 	dress_container: function create_container () {
 		var c = {
